@@ -1,0 +1,436 @@
+
+Category: Coding Challenges
+  Hash me please: https://ringzer0ctf.com/challenges/13
+  Ask your grandpa: https://ringzer0ctf.com/challenges/172
+  Hash me reloaded: https://ringzer0ctf.com/challenges/14
+  I hate mathematics: https://ringzer0ctf.com/challenges/32
+  Ask your grandpa again: https://ringzer0ctf.com/challenges/173
+  Hash breaker: https://ringzer0ctf.com/challenges/56
+  I saw a little elf: https://ringzer0ctf.com/challenges/15
+  Hash breaker reloaded: https://ringzer0ctf.com/challenges/57
+  Execute me if you can: https://ringzer0ctf.com/challenges/121
+  Read me if you can: https://ringzer0ctf.com/challenges/17
+  Ascii Art: https://ringzer0ctf.com/challenges/119
+  Execute me if you can again: https://ringzer0ctf.com/challenges/125
+  Hash breaker reloaded again: https://ringzer0ctf.com/challenges/159
+  Xor me if you can: https://ringzer0ctf.com/challenges/16
+  Find the right word: https://ringzer0ctf.com/challenges/126
+  Number game: https://ringzer0ctf.com/challenges/130
+  Classic Sudoku: https://ringzer0ctf.com/challenges/143
+
+Category: Cryptography
+  Some martian message: https://ringzer0ctf.com/challenges/25
+  Youre Drunk: https://ringzer0ctf.com/challenges/274
+  File recovery: https://ringzer0ctf.com/challenges/49
+  Fashion Victim: https://ringzer0ctf.com/challenges/156
+  Martian message part 2: https://ringzer0ctf.com/challenges/63
+  Public key recovery: https://ringzer0ctf.com/challenges/50
+  I Lost my password: https://ringzer0ctf.com/challenges/51
+  Lets Play Scrabble: https://ringzer0ctf.com/challenges/300
+  Hangovers and more Bacon: https://ringzer0ctf.com/challenges/114
+  Martian message part 3: https://ringzer0ctf.com/challenges/26
+  Can you understand this sentence: https://ringzer0ctf.com/challenges/23
+  Encrypted Zip: https://ringzer0ctf.com/challenges/29
+  Crypto over the network: https://ringzer0ctf.com/challenges/66
+  Crypto Object: https://ringzer0ctf.com/challenges/154
+  Crypto Leak: https://ringzer0ctf.com/challenges/275
+  SSO Service: https://ringzer0ctf.com/challenges/336
+  Is it a secure string: https://ringzer0ctf.com/challenges/55
+  Lets Play Scrabble Part 2: https://ringzer0ctf.com/challenges/301
+  Jabber: https://ringzer0ctf.com/challenges/294
+  Free Flag Encrypter: https://ringzer0ctf.com/challenges/261
+  Guess the number: https://ringzer0ctf.com/challenges/339
+  TotalSecure Message Encrypter: https://ringzer0ctf.com/challenges/214
+  Welcome to the asylum: https://ringzer0ctf.com/challenges/155
+  Pattern is the key: https://ringzer0ctf.com/challenges/73
+  Malcolm: https://ringzer0ctf.com/challenges/331
+  Jabber Part 2: https://ringzer0ctf.com/challenges/295
+  Homemade craptography #2: https://ringzer0ctf.com/challenges/319
+  Homemade Craptography: https://ringzer0ctf.com/challenges/282
+  Mars Log: https://ringzer0ctf.com/challenges/290
+  Crypto is not good as you think: https://ringzer0ctf.com/challenges/105
+  Find your path: https://ringzer0ctf.com/challenges/344
+  Rusty RSA message signing service: https://ringzer0ctf.com/challenges/247
+  Spies: https://ringzer0ctf.com/challenges/233
+  Polly Wants a Cracker: https://ringzer0ctf.com/challenges/310
+  TotalSecure Message Encrypter V2: https://ringzer0ctf.com/challenges/216
+  Unicorn As A Service: https://ringzer0ctf.com/challenges/267
+
+Category: Exotic Data Storage
+  Just another login form: https://ringzer0ctf.com/challenges/124
+  DONT login as admin: https://ringzer0ctf.com/challenges/308
+  I forgot my password: https://ringzer0ctf.com/challenges/309
+  Inspiration: https://ringzer0ctf.com/challenges/303
+
+Category: Forensics
+  I made a dd of Agent Smith usb key: https://ringzer0ctf.com/challenges/20
+  Who I am part 2: https://ringzer0ctf.com/challenges/243
+  Meat Loaf: https://ringzer0ctf.com/challenges/140
+  Who I am: https://ringzer0ctf.com/challenges/160
+  Dr_Pouce: https://ringzer0ctf.com/challenges/103
+  Attention Dinosaure Survive: https://ringzer0ctf.com/challenges/92
+  The good the bad and the ugly: https://ringzer0ctf.com/challenges/217
+  1 in 3 Do not waste the environment: https://ringzer0ctf.com/challenges/86
+  Hide my ass in my home: https://ringzer0ctf.com/challenges/65
+  Hey Chuck where is the flag: https://ringzer0ctf.com/challenges/44
+  I love cat: https://ringzer0ctf.com/challenges/252
+  The words flew but writing remains: https://ringzer0ctf.com/challenges/84
+  2 in 3 Did you see my desktop: https://ringzer0ctf.com/challenges/87
+  Are you Twisted Insane: https://ringzer0ctf.com/challenges/59
+  Someone steal my flag: https://ringzer0ctf.com/challenges/112
+  802_1X Part 1: https://ringzer0ctf.com/challenges/192
+  R_I_P MsPaint: https://ringzer0ctf.com/challenges/269
+  3 in 3 Suspicious account password: https://ringzer0ctf.com/challenges/88
+  Poor internet connection: https://ringzer0ctf.com/challenges/35
+  Agent Smith reloaded: https://ringzer0ctf.com/challenges/24
+  Someone steal my flag again: https://ringzer0ctf.com/challenges/150
+  We got breached: https://ringzer0ctf.com/challenges/163
+  Ping pong: https://ringzer0ctf.com/challenges/115
+  Spy my girl: https://ringzer0ctf.com/challenges/12
+  Russian Crypto Roulette: https://ringzer0ctf.com/challenges/116
+  We got breached again: https://ringzer0ctf.com/challenges/164
+  Really Depressed Protocol: https://ringzer0ctf.com/challenges/117
+  802_1X Part 2: https://ringzer0ctf.com/challenges/193
+
+Category: Jail Escaping
+  Bash Jail 1: https://ringzer0ctf.com/challenges/218
+  Bash Jail 2: https://ringzer0ctf.com/challenges/219
+  Bash Jail 3: https://ringzer0ctf.com/challenges/220
+  Bash Jail 4: https://ringzer0ctf.com/challenges/221
+  Bash Jail 5: https://ringzer0ctf.com/challenges/222
+  Bash Jail 6: https://ringzer0ctf.com/challenges/253
+  Bash Jail 7: https://ringzer0ctf.com/challenges/260
+  C Jail 1: https://ringzer0ctf.com/challenges/228
+  C Jail 2: https://ringzer0ctf.com/challenges/229
+  C Jail 3: https://ringzer0ctf.com/challenges/230
+  C Jail 4: https://ringzer0ctf.com/challenges/257
+  C Jail 5: https://ringzer0ctf.com/challenges/258
+  C Jail 6: https://ringzer0ctf.com/challenges/259
+  PHP Jail 1: https://ringzer0ctf.com/challenges/223
+  PHP Jail 2: https://ringzer0ctf.com/challenges/224
+  PHP Jail 3: https://ringzer0ctf.com/challenges/225
+  PHP Jail 4: https://ringzer0ctf.com/challenges/226
+  PHP Jail 5: https://ringzer0ctf.com/challenges/227
+  PyJail 1: https://ringzer0ctf.com/challenges/97
+  PyJail 2: https://ringzer0ctf.com/challenges/98
+  PyJail 3: https://ringzer0ctf.com/challenges/99
+
+Category: JavaScript
+  Client side validation is bad: https://ringzer0ctf.com/challenges/27
+  Hashing is more secure: https://ringzer0ctf.com/challenges/30
+  Then obfuscation is more secure: https://ringzer0ctf.com/challenges/31
+  Why not: https://ringzer0ctf.com/challenges/34
+  Valid key required: https://ringzer0ctf.com/challenges/58
+  Most Secure Crypto Algo: https://ringzer0ctf.com/challenges/67
+  Why not be more secure: https://ringzer0ctf.com/challenges/46
+  WTF Lol: https://ringzer0ctf.com/challenges/213
+  Interstellar PhoneBook: https://ringzer0ctf.com/challenges/281
+  Beauty and the beast: https://ringzer0ctf.com/challenges/211
+
+Category: Malware Analysis
+  APT 1337: https://ringzer0ctf.com/challenges/262
+  Capture 1 Part 1: https://ringzer0ctf.com/challenges/195
+  Capture 1 Part 2: https://ringzer0ctf.com/challenges/196
+  Capture 1 Part 3: https://ringzer0ctf.com/challenges/199
+  Capture 1 Part 4: https://ringzer0ctf.com/challenges/201
+  Capture 1 Part 5: https://ringzer0ctf.com/challenges/197
+  Capture 1 Part 6: https://ringzer0ctf.com/challenges/198
+  Capture 1 Part 7: https://ringzer0ctf.com/challenges/200
+  Capture 2 Part 1: https://ringzer0ctf.com/challenges/202
+  Capture 2 Part 2: https://ringzer0ctf.com/challenges/203
+  Capture 2 Part 3: https://ringzer0ctf.com/challenges/204
+  Capture 2 Part 4: https://ringzer0ctf.com/challenges/205
+  Capture 2 Part 5: https://ringzer0ctf.com/challenges/206
+  Capture 2 Part 6: https://ringzer0ctf.com/challenges/207
+  Evil X: https://ringzer0ctf.com/challenges/348
+  Just Another MBR Ransomware: https://ringzer0ctf.com/challenges/272
+  RAO democracy: https://ringzer0ctf.com/challenges/263
+  This malware excels Part 1: https://ringzer0ctf.com/challenges/340
+  This malware excels Part 2: https://ringzer0ctf.com/challenges/341
+  This malware excels Part 3: https://ringzer0ctf.com/challenges/342
+  This malware excels Part 4: https://ringzer0ctf.com/challenges/343
+  WebShell of Hell: https://ringzer0ctf.com/challenges/250
+
+Category: NorthSec 2021
+  Crapto Century: https://ringzer0ctf.com/challenges/354
+  Farmer Search 1: https://ringzer0ctf.com/challenges/356
+  Farmer Search 2: https://ringzer0ctf.com/challenges/357
+  Farmer Search 3: https://ringzer0ctf.com/challenges/358
+  Knight Portal 1: https://ringzer0ctf.com/challenges/350
+  Knight Portal 2: https://ringzer0ctf.com/challenges/351
+  Knight Portal 3: https://ringzer0ctf.com/challenges/352
+  Reading Through the Cloud: https://ringzer0ctf.com/challenges/355
+  Scammed again: https://ringzer0ctf.com/challenges/391
+  The Cabal: https://ringzer0ctf.com/challenges/390
+
+Category: NorthSec 2022
+  Email Template 1: https://ringzer0ctf.com/challenges/378
+  Email Template 2: https://ringzer0ctf.com/challenges/379
+  Email Template 3: https://ringzer0ctf.com/challenges/380
+  Stock Options Portal: https://ringzer0ctf.com/challenges/389
+
+Category: NorthSec 2023
+  Ask G_O_D 1: https://ringzer0ctf.com/challenges/359
+  Ask G_O_D 2: https://ringzer0ctf.com/challenges/360
+  Ask G_O_D 3: https://ringzer0ctf.com/challenges/361
+  Ask G_O_D 4: https://ringzer0ctf.com/challenges/362
+  Ask G_O_D 5: https://ringzer0ctf.com/challenges/363
+  Ask G_O_D 6: https://ringzer0ctf.com/challenges/364
+  Ask G_O_D 7: https://ringzer0ctf.com/challenges/365
+  Ask G_O_D 8: https://ringzer0ctf.com/challenges/366
+  Ask G_O_D 9: https://ringzer0ctf.com/challenges/367
+  Ask G_O_D 10: https://ringzer0ctf.com/challenges/368
+  Ask G_O_D 11: https://ringzer0ctf.com/challenges/369
+  Ask G_O_D 12: https://ringzer0ctf.com/challenges/370
+  Ask G_O_D 13: https://ringzer0ctf.com/challenges/371
+  Ask G_O_D 14: https://ringzer0ctf.com/challenges/372
+  Ask G_O_D 15: https://ringzer0ctf.com/challenges/373
+  Ask G_O_D 16: https://ringzer0ctf.com/challenges/374
+  Ask G_O_D 17: https://ringzer0ctf.com/challenges/375
+  Ask G_O_D 18: https://ringzer0ctf.com/challenges/376
+  Corporate Cafeteria Menu: https://ringzer0ctf.com/challenges/388
+  Orchestry 1: https://ringzer0ctf.com/challenges/382
+  Orchestry 2: https://ringzer0ctf.com/challenges/383
+  Orchestry 3: https://ringzer0ctf.com/challenges/384
+  The G_O_D Archive: https://ringzer0ctf.com/challenges/377
+  We Call it Spring 1: https://ringzer0ctf.com/challenges/381
+  We Call it Spring 2: https://ringzer0ctf.com/challenges/385
+  We Call it Spring 3: https://ringzer0ctf.com/challenges/386
+  We Call it Spring 4: https://ringzer0ctf.com/challenges/387
+
+Category: NorthSec 2024
+  Appendix System: https://ringzer0ctf.com/challenges/392
+  Photographic Memory System 1: https://ringzer0ctf.com/challenges/395
+  Photographic Memory System 2: https://ringzer0ctf.com/challenges/396
+  Anti-Allergens Immune System: https://ringzer0ctf.com/challenges/393
+  Linguistic Memory System: https://ringzer0ctf.com/challenges/394
+
+Category: Pwnage Linux
+  Level1 Pwnage Linux Level Up: https://ringzer0ctf.com/challenges/80
+  Level2 Pwnage Linux Level Up: https://ringzer0ctf.com/challenges/81
+  Remote Auth: https://ringzer0ctf.com/challenges/181
+  Level3 Pwnage Linux Level Up: https://ringzer0ctf.com/challenges/82
+  The Vault: https://ringzer0ctf.com/challenges/325
+  Level1 Pwnage Linux x86_64: https://ringzer0ctf.com/challenges/165
+  Can you get the service password: https://ringzer0ctf.com/challenges/109
+  Sometime there is no buffer overflow: https://ringzer0ctf.com/challenges/162
+  Level2 Pwnage Linux x86_64: https://ringzer0ctf.com/challenges/166
+  Friendly race: https://ringzer0ctf.com/challenges/180
+  Level4 Pwnage Linux Level Up: https://ringzer0ctf.com/challenges/102
+  RPCFTW: https://ringzer0ctf.com/challenges/182
+  Jack the heaper: https://ringzer0ctf.com/challenges/251
+  Level4 Pwnage Linux x86_64: https://ringzer0ctf.com/challenges/168
+  Level3 Pwnage Linux x86_64: https://ringzer0ctf.com/challenges/167
+  Just another useless service: https://ringzer0ctf.com/challenges/183
+  Take over the Virtual World: https://ringzer0ctf.com/challenges/191
+  Base64 As A Service: https://ringzer0ctf.com/challenges/232
+  All You Need Is a Client: https://ringzer0ctf.com/challenges/329
+  Base64 As A Service Reloaded: https://ringzer0ctf.com/challenges/234
+  Delivery As A Service: https://ringzer0ctf.com/challenges/235
+
+Category: Reverse Engineering
+  Time to learn x86 ASM & gdb: https://ringzer0ctf.com/challenges/11
+  See No Evil - Part 1: https://ringzer0ctf.com/challenges/311
+  Can you see through the star: https://ringzer0ctf.com/challenges/110
+  Gift as a Service Part 2: https://ringzer0ctf.com/challenges/346
+  See No Evil - Part 2: https://ringzer0ctf.com/challenges/312
+  See No Evil - Part 3: https://ringzer0ctf.com/challenges/313
+  Intro To Sparc: https://ringzer0ctf.com/challenges/270
+  Kernel introduction: https://ringzer0ctf.com/challenges/72
+  Heap allocator: https://ringzer0ctf.com/challenges/176
+  Crack Me 1: https://ringzer0ctf.com/challenges/9
+  Introduction to MIPS: https://ringzer0ctf.com/challenges/53
+  I never forget the Nintendo 64: https://ringzer0ctf.com/challenges/36
+  Windows x86 reversing is cool: https://ringzer0ctf.com/challenges/28
+  Old School: https://ringzer0ctf.com/challenges/266
+  Power to the people: https://ringzer0ctf.com/challenges/175
+  Lets take a detour: https://ringzer0ctf.com/challenges/161
+  Altera: https://ringzer0ctf.com/challenges/238
+  ASM Lovers: https://ringzer0ctf.com/challenges/237
+  Wrong byte: https://ringzer0ctf.com/challenges/111
+  See No Evil - Part 4: https://ringzer0ctf.com/challenges/314
+  See No Evil - Part 5: https://ringzer0ctf.com/challenges/315
+  I love tea: https://ringzer0ctf.com/challenges/320
+  Space Invaders: https://ringzer0ctf.com/challenges/335
+  Introduction to ARM: https://ringzer0ctf.com/challenges/54
+  Windows API for the win: https://ringzer0ctf.com/challenges/33
+  WASM Part 1: https://ringzer0ctf.com/challenges/278
+  The MI7 password prompt: https://ringzer0ctf.com/challenges/276
+  Phenix Golgoth: https://ringzer0ctf.com/challenges/248
+  Can I speak with the kernel: https://ringzer0ctf.com/challenges/246
+  Reindeer Game: https://ringzer0ctf.com/challenges/347
+  Back to our roots: https://ringzer0ctf.com/challenges/64
+  Virtual World: https://ringzer0ctf.com/challenges/190
+  Smart enough: https://ringzer0ctf.com/challenges/178
+  Pwndr3 Authenticator: https://ringzer0ctf.com/challenges/170
+  RingZer0 Authenticator: https://ringzer0ctf.com/challenges/141
+  Need a client: https://ringzer0ctf.com/challenges/68
+  I Think I forgot to take out the garbage: https://ringzer0ctf.com/challenges/108
+  Flag stealer: https://ringzer0ctf.com/challenges/144
+  Update Manager: https://ringzer0ctf.com/challenges/145
+  Buggy Bunny: https://ringzer0ctf.com/challenges/179
+  Cappin: https://ringzer0ctf.com/challenges/330
+  The supreme bash: https://ringzer0ctf.com/challenges/264
+  Armed and ready: https://ringzer0ctf.com/challenges/177
+  SOS Lib: https://ringzer0ctf.com/challenges/101
+  Youre not welcome: https://ringzer0ctf.com/challenges/210
+  WASM Part 2: https://ringzer0ctf.com/challenges/279
+  License to kill: https://ringzer0ctf.com/challenges/174
+  Rebate As A Service: https://ringzer0ctf.com/challenges/236
+  The Matrix: https://ringzer0ctf.com/challenges/302
+  Keygen time again: https://ringzer0ctf.com/challenges/157
+  Trolling the troll: https://ringzer0ctf.com/challenges/61
+  The unknown challenge: https://ringzer0ctf.com/challenges/107
+  WASM Part 3: https://ringzer0ctf.com/challenges/280
+  Youre not welcome again: https://ringzer0ctf.com/challenges/239
+  The oracle: https://ringzer0ctf.com/challenges/249
+  Mars Reloaded: https://ringzer0ctf.com/challenges/277
+
+Category: Shellcoding
+  Basics of Linux x64 shellcoding: https://ringzer0ctf.com/challenges/127
+  Linux x64 shellcoding level 2: https://ringzer0ctf.com/challenges/128
+  Linux x64 shellcoding level 3: https://ringzer0ctf.com/challenges/131
+  Linux x64 shellcoding level 4: https://ringzer0ctf.com/challenges/132
+  Linux x64 shellcoding level 5: https://ringzer0ctf.com/challenges/133
+  Linux x64 shellcoding level 6: https://ringzer0ctf.com/challenges/134
+  Linux x64 shellcoding level 7: https://ringzer0ctf.com/challenges/135
+
+Category: Software Defined Radio
+  SigID Level 1: https://ringzer0ctf.com/challenges/136
+  You Turn Me On And Off: https://ringzer0ctf.com/challenges/332
+  Lets Get Scwhifty: https://ringzer0ctf.com/challenges/333
+  SigID Level 2: https://ringzer0ctf.com/challenges/137
+  Dont flip out Thomas: https://ringzer0ctf.com/challenges/334
+
+Category: SQL Injection
+  Most basic SQLi pattern.: https://ringzer0ctf.com/challenges/1
+  ACL rulezzz the world.: https://ringzer0ctf.com/challenges/2
+  Login portal 1: https://ringzer0ctf.com/challenges/3
+  Random Login Form: https://ringzer0ctf.com/challenges/171
+  Po po po po postgresql: https://ringzer0ctf.com/challenges/21
+  Login portal 2: https://ringzer0ctf.com/challenges/4
+  0 Day Store: https://ringzer0ctf.com/challenges/189
+  Dont mess with Noemie; she hates admin: https://ringzer0ctf.com/challenges/52
+  Whats the definition of NULL: https://ringzer0ctf.com/challenges/40
+  Quote of the day: https://ringzer0ctf.com/challenges/37
+  No more hacking for me: https://ringzer0ctf.com/challenges/74
+  Thinking outside the box is the key: https://ringzer0ctf.com/challenges/39
+  Dont Stumble in the Process: https://ringzer0ctf.com/challenges/291
+  Brain Teaser 1: https://ringzer0ctf.com/challenges/305
+  Quote of the day reloaded: https://ringzer0ctf.com/challenges/38
+  When its lite its not necessarily easy: https://ringzer0ctf.com/challenges/19
+  Login portal 3: https://ringzer0ctf.com/challenges/5
+  Hot Single Mom: https://ringzer0ctf.com/challenges/158
+  Brain Teaser 2: https://ringzer0ctf.com/challenges/306
+  Internet As A Service: https://ringzer0ctf.com/challenges/242
+  Size DOES matter: https://ringzer0ctf.com/challenges/78
+  _etc_passwd: https://ringzer0ctf.com/challenges/77
+  Groups of hacker: https://ringzer0ctf.com/challenges/62
+  Login portal 4: https://ringzer0ctf.com/challenges/6
+  The useless search tool: https://ringzer0ctf.com/challenges/123
+  Login portal 5: https://ringzer0ctf.com/challenges/7
+  stackoverflow.com lied to me... again: https://ringzer0ctf.com/challenges/271
+  Doctor Who : https://ringzer0ctf.com/challenges/304
+  Login portal 6: https://ringzer0ctf.com/challenges/8
+  SQHell: https://ringzer0ctf.com/challenges/273
+  Dont Stumble in the Process Reloaded: https://ringzer0ctf.com/challenges/292
+  Mysql Brain fart: https://ringzer0ctf.com/challenges/60
+
+Category: Steganography
+  Victor youre hidding me something: https://ringzer0ctf.com/challenges/70
+  Youre lost Use the map: https://ringzer0ctf.com/challenges/118
+  Look inside the house: https://ringzer0ctf.com/challenges/18
+  A ghost sound: https://ringzer0ctf.com/challenges/22
+  Victor reloaded: https://ringzer0ctf.com/challenges/71
+  The Sloth: https://ringzer0ctf.com/challenges/265
+  Brainsick: https://ringzer0ctf.com/challenges/122
+  Missing Pieces: https://ringzer0ctf.com/challenges/129
+  Hidden In Plain Sight: https://ringzer0ctf.com/challenges/188
+  Pixel Everywhere: https://ringzer0ctf.com/challenges/194
+  The vestige of dial-up Internet: https://ringzer0ctf.com/challenges/244
+  Im Goronyo Babad Nigerian prince: https://ringzer0ctf.com/challenges/231
+  5 beautiful colors: https://ringzer0ctf.com/challenges/208
+  Crazy Cat Lady: https://ringzer0ctf.com/challenges/296
+  Love Letter: https://ringzer0ctf.com/challenges/215
+  Can you see through the matrix: https://ringzer0ctf.com/challenges/10
+  Your old friend Orloge Simard: https://ringzer0ctf.com/challenges/106
+  Can you see through the matrix reloaded: https://ringzer0ctf.com/challenges/245
+  Stay Classy: https://ringzer0ctf.com/challenges/268
+  Not just 64: https://ringzer0ctf.com/challenges/293
+  Even the Odds: https://ringzer0ctf.com/challenges/316
+  Walk the line: https://ringzer0ctf.com/challenges/69
+  Stop the violence: https://ringzer0ctf.com/challenges/299
+  Stop the violence 2: https://ringzer0ctf.com/challenges/323
+  Hidden out of sight: https://ringzer0ctf.com/challenges/349
+
+Category: SysAdmin Linux
+  SysAdmin Part 1: https://ringzer0ctf.com/challenges/89
+  SysAdmin Part 2: https://ringzer0ctf.com/challenges/148
+  SysAdmin Part 3: https://ringzer0ctf.com/challenges/152
+  SysAdmin Part 4: https://ringzer0ctf.com/challenges/146
+  SysAdmin Part 5: https://ringzer0ctf.com/challenges/149
+  SysAdmin Part 6: https://ringzer0ctf.com/challenges/90
+  SysAdmin Part 7: https://ringzer0ctf.com/challenges/91
+  SysAdmin Part 8: https://ringzer0ctf.com/challenges/147
+
+Category: The NC8 Reverse Engineering Track
+  NC8 MAINFRAME MANAGEMENT INTERFACE Part 1: https://ringzer0ctf.com/challenges/283
+  NC8 MAINFRAME MANAGEMENT INTERFACE Part 2 Flag 1: https://ringzer0ctf.com/challenges/284
+  NC8 MAINFRAME MANAGEMENT INTERFACE Part 2 Flag 2: https://ringzer0ctf.com/challenges/285
+  NC8 MAINFRAME MANAGEMENT INTERFACE Part 2 Flag 3: https://ringzer0ctf.com/challenges/286
+  NC8 MAINFRAME MANAGEMENT INTERFACE Part 3: https://ringzer0ctf.com/challenges/287
+  NC8 MAINFRAME MANAGEMENT INTERFACE Part 4: https://ringzer0ctf.com/challenges/288
+
+Category: Web Warning
+  Words mean something: https://ringzer0ctf.com/challenges/42
+  Big Brother is watching: https://ringzer0ctf.com/challenges/212
+  Hacking skill are optional: https://ringzer0ctf.com/challenges/297
+  Looking for password file: https://ringzer0ctf.com/challenges/75
+  Area 51: https://ringzer0ctf.com/challenges/48
+  Headache: https://ringzer0ctf.com/challenges/43
+  Security thru obscurity: https://ringzer0ctf.com/challenges/45
+  PHP Fairy: https://ringzer0ctf.com/challenges/254
+  XSS Challenge 2: https://ringzer0ctf.com/challenges/93
+  XSS Challenge 1: https://ringzer0ctf.com/challenges/96
+  Admin Portal: https://ringzer0ctf.com/challenges/104
+  Password reset: https://ringzer0ctf.com/challenges/113
+  Malicious upload: https://ringzer0ctf.com/challenges/47
+  Captcha I: https://ringzer0ctf.com/challenges/138
+  Unreadable captcha: https://ringzer0ctf.com/challenges/142
+  Password reset reloaded: https://ringzer0ctf.com/challenges/120
+  PHP feature or 0day: https://ringzer0ctf.com/challenges/240
+  Serial killer: https://ringzer0ctf.com/challenges/41
+  JWT pitfall 1: https://ringzer0ctf.com/challenges/307
+  REST in peace: https://ringzer0ctf.com/challenges/153
+  Captcha IV: https://ringzer0ctf.com/challenges/324
+  NeuroSoft Observation Unit Center: https://ringzer0ctf.com/challenges/326
+  Beyond Reality Part 1: https://ringzer0ctf.com/challenges/327
+  XSS Challenge 3: https://ringzer0ctf.com/challenges/95
+  XSS Challenge 4: https://ringzer0ctf.com/challenges/94
+  Facebook will never forget this one: https://ringzer0ctf.com/challenges/85
+  UploadStar: https://ringzer0ctf.com/challenges/337
+  Gift as a Service Part 1: https://ringzer0ctf.com/challenges/345
+  Looking for the flag: https://ringzer0ctf.com/challenges/76
+  Captcha III: https://ringzer0ctf.com/challenges/289
+  Propaganda mail: https://ringzer0ctf.com/challenges/185
+  Captcha II: https://ringzer0ctf.com/challenges/139
+  Read the unreadable: https://ringzer0ctf.com/challenges/209
+  Freedom Firewall: https://ringzer0ctf.com/challenges/187
+  Timesheet As a Service: https://ringzer0ctf.com/challenges/255
+  Password Reset As a Service: https://ringzer0ctf.com/challenges/256
+  UploadStar Reloaded: https://ringzer0ctf.com/challenges/338
+  Super Lottery: https://ringzer0ctf.com/challenges/298
+  Beyond Reality Part 2: https://ringzer0ctf.com/challenges/328
+  The archive: https://ringzer0ctf.com/challenges/317
+  Lost API: https://ringzer0ctf.com/challenges/318
+  PHP feature or 0day reloaded: https://ringzer0ctf.com/challenges/241
+  I hate this one: https://ringzer0ctf.com/challenges/79
+  XSS Challenge 5: https://ringzer0ctf.com/challenges/100
+  Serial killer part 2: https://ringzer0ctf.com/challenges/169
+  Oraos factory: https://ringzer0ctf.com/challenges/186
+  Ping It: https://ringzer0ctf.com/challenges/322
+  Super Lottery Reloaded: https://ringzer0ctf.com/challenges/321
+  XPATH of hell: https://ringzer0ctf.com/challenges/83
+  Secure Mail: https://ringzer0ctf.com/challenges/151
+  Looking for god in your life: https://ringzer0ctf.com/challenges/184
+  Lotto 8_33: https://ringzer0ctf.com/challenges/353
